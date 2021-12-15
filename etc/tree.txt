@@ -1,0 +1,45 @@
+├─dashboard
+│ # 기존 bootstrap 코드
+│ 
+├─data
+│  └─csv
+│   # 교수님 drap 데이터 폴더
+│   # 데이터 size 초과로 폴더만 존재 합니다.
+│   # 다운로드는 다음 경로를 이용해 주세요
+│   # URL : 위의 데이터 링크 참조
+│
+├─htdocs
+│  ├─assets
+│  │  # bootstrap 코드
+│  │  
+│  ├─control
+│  │  # page 생성 코드 MVC(control) 부분
+│  │  
+│  ├─db
+│  │  # DB 연결 코드 mysqli 부분
+│  │  
+│  ├─model MVC(model) 부분
+│  │  # DB 접속 코드 데이터
+│  │  # 데이터 불러오는 부분
+│  │
+│  └─view
+│      │ # html code 부분 
+│      │ # MVC(control) 에서 호출되어 사용.
+│      └─include
+├─img
+│ # word 제출 이미지
+│ 
+├─R
+│ # csv 데이터 확인용으로 사용
+│ 
+├─SQL
+│  │ # SQL 프로시져 함수 생성 코드
+│  ├─function
+│  └─procedure
+│ 
+├─교수님_요구사항
+│ 
+└─설계
+    # draw.io file > 구조도 확인 가능
+    # 데이터 베이스 모델링 설계
+    # 코드  설계

@@ -1,0 +1,1 @@
+<?php echo "<script>location.href='./control/aisles_table.php'</script>"; ?>
